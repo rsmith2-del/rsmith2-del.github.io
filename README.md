@@ -1,7 +1,8 @@
 # Welcome to WREAM's Pokemon Battler!
 ## Introduction
-This game pits two random pokemon against eachother in a retro pokemon battle.
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/31e035f1-7153-491d-b165-0420e7e52f11" />
+This game pits two random pokemon against eachother in a retro pokemon battle. Watch this video for an indepth game analysis!
+[![Watch the video](https://img.youtube.com/vi/1hcMivsN820/hqdefault.jpg)](https://www.youtube.com/watch?v=1hcMivsN820)
+
 We incorporated features like live animation, elemental type multipliers, chance based battle features, a health point + attack point system, and multiple playable pokemon in a tribute to Nintendo's classic pokemon games.
 
 
@@ -27,6 +28,7 @@ c. Consider your attack type when facing an enemy, certain elements will deal bo
 d. Each move has a different hit rate, so there is a chance your attack wont land.
 
 e. When the game has ended, use the 'x' in the top right corner to exit the game window.
+
 
 ## Atributions
 This game was coded from scratch by [EffervescentWren](https://github.com/EffervescentWren), [lea-voy](https://github.com/lea-voy), and [rsmith2-del](https://github.com/rsmith2-del).
